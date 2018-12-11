@@ -1,0 +1,23 @@
+{
+  "name": "Sipp3XII",
+  "version": "1.0.0",
+  "summary": "Providing API for Sipp 3X II",
+  "homepage": "https://github.com/shower929/sipp-pods.git",
+  "license": {
+    "type": "proprietary",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Shower": "shower929@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/shower929/sipp-pods.git",
+    "tag": "1.0.0"
+  },
+  "ios": {
+    "vendored_frameworks": "Sipp3XII.framework"
+  }
+}
